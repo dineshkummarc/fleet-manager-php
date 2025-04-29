@@ -13,7 +13,6 @@ If you would like to contribute, fix, update, refactor this code please feel fre
 PR's for UI are welcome as well.
 please share your ideas and discuss first before working on any PR's so we are alligned.
 
-
 ### Supported Features:
 - Add Vehicle
 - Edit Vehicle
@@ -35,9 +34,6 @@ please share your ideas and discuss first before working on any PR's so we are a
 - - Get Maintenance Reminders (Paginated)
 - - Get Digital Documents Records (Paginated)
 - - Get Accident Records (Paginated)
-
-
-
 
 ## Notes
 * The database schema is not optimized for large volume of data or production usage.
